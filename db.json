@@ -27,5 +27,11 @@
       "startDate": "2025-01-20",
       "endDate": "2025-06-10"
     }
+  ],
+  "modalidades": [
+    { "id": 1, "nombre": "Presencial" },
+    { "id": 2, "nombre": "Virtual" },
+    { "id": 3, "nombre": "Híbrida" },
+    { "id": 4, "nombre": "A Distancia" }
   ]
 }
