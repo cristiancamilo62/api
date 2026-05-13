@@ -1,8 +1,8 @@
-"periodosAcademicos": [
+"periodosAcademicos": {
   { "id": 1, "anio": 2024, "semestre": 1, "label": "2024-I",  "activo": false },
   { "id": 2, "anio": 2024, "semestre": 2, "label": "2024-II", "activo": false },
   { "id": 3, "anio": 2025, "semestre": 1, "label": "2025-I",  "activo": false },
   { "id": 4, "anio": 2025, "semestre": 2, "label": "2025-II", "activo": false },
   { "id": 5, "anio": 2026, "semestre": 1, "label": "2026-I",  "activo": true  },
   { "id": 6, "anio": 2026, "semestre": 2, "label": "2026-II", "activo": false }
-]
+}
