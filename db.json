@@ -1,33 +1,33 @@
 {
-  "academicPeriods": [
-    {
-      "id": "AP-2026-1",
-      "year": 2026,
-      "semester": 1,
-      "label": "2026-1",
-      "isActive": true,
-      "startDate": "2026-01-20",
-      "endDate": "2026-06-15"
-    },
-    {
-      "id": "AP-2025-2",
-      "year": 2025,
-      "semester": 2,
-      "label": "2025-2",
-      "isActive": false,
-      "startDate": "2025-07-15",
-      "endDate": "2025-11-30"
-    },
-    {
-      "id": "AP-2025-1",
-      "year": 2025,
-      "semester": 1,
-      "label": "2025-1",
-      "isActive": false,
-      "startDate": "2025-01-20",
-      "endDate": "2025-06-10"
-    }
-  ],
+"periodosAcademicos": [
+  {
+    "id": "PA-2026-1",
+    "anio": 2026,
+    "semestre": 1,
+    "etiqueta": "2026-1",
+    "estaActivo": true,
+    "fechaInicio": "2026-01-20",
+    "fechaFin": "2026-06-15"
+  },
+  {
+    "id": "PA-2025-2",
+    "anio": 2025,
+    "semestre": 2,
+    "etiqueta": "2025-2",
+    "estaActivo": false,
+    "fechaInicio": "2025-07-15",
+    "fechaFin": "2025-11-30"
+  },
+  {
+    "id": "PA-2025-1",
+    "anio": 2025,
+    "semestre": 1,
+    "etiqueta": "2025-1",
+    "estaActivo": false,
+    "fechaInicio": "2025-01-20",
+    "fechaFin": "2025-06-10"
+  }
+],
   "modalidades": [
     { "id": 1, "nombre": "Presencial" },
     { "id": 2, "nombre": "Virtual" },
